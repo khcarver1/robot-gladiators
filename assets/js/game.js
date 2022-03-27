@@ -63,3 +63,18 @@ for (var i = 0; i < enemyNames.length; i++) {
 // "WIN" - Player robot has defeated all enemy-robots
 //    * Fight all enemy-robots
 //    * Defeat each enemy-robo
+
+
+
+function startGame() {
+
+}
+
+
+function endGame() {
+    window.prompt("would you like to play again?")
+}
+
+shop() {
+    
+}
